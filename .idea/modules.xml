@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/test-security-dependencies/test-security-dependencies.iml" filepath="$PROJECT_DIR$/test-security-dependencies/test-security-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-security-oauth-resource/test-security-oauth-resource.iml" filepath="$PROJECT_DIR$/test-security-oauth-resource/test-security-oauth-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-security-oauth-server/test-security-oauth-server.iml" filepath="$PROJECT_DIR$/test-security-oauth-server/test-security-oauth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test_security_oauth.iml" filepath="$PROJECT_DIR$/.idea/test_security_oauth.iml" />
+    </modules>
+  </component>
+</project>
